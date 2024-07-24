@@ -1,0 +1,2 @@
+PU-GAN: https://github.com/liruihui/PU-GAN
+PU1K: https://github.com/guochengqian/PU-GCN
